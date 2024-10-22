@@ -150,7 +150,7 @@ int main()
     return 0;
 }
 ```
-
+![exp19](https://github.com/ashuydv-05/Experiment-18/blob/main/Screenshot%202024-10-22%20071845.png)
 
 Conclusin:-in this experiment we learnt about stack and its operations
 
